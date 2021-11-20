@@ -52,7 +52,7 @@ public class Login {
         incorrect.setVisible(false);
         frame.add(incorrect);
 
-        //adding a listener, to listen login button press
+        //adding a listener, to listen to login button press
         login.addActionListener(new ActionListener() {
 
             @Override
