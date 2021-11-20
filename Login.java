@@ -10,7 +10,7 @@ public class Main {
      The program is open source, so feel free to use it. It was made by martin1000*/
 
     public static void main(String[] args) throws Exception {
-        //we will need check if the text in usernameField and passwordField is the same as in the next two Strings:
+        //we will need to check if the text in usernameField and passwordField is the same as in the next two Strings:
         String username = "martin1000";
         String password = "javaisfun1234";
 
