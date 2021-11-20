@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-public class Main {
+public class Login {
 
     /*In this program we will be looking at a simple login system, with GUI.
      If you want to change the style of the JFrame you can use:
