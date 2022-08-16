@@ -59,7 +59,7 @@ public class Login {
             public void actionPerformed(ActionEvent e) {
 
             /* here we are checking if usernameField and passwordField both equal to their Strings (so username and password String),
-              we are using String.valueOf to get the String from JPasswordField */
+               we are using String.valueOf to get the String from JPasswordField */
                 if(usernameField.getText().equals(username) && String.valueOf(passwordField.getPassword()).equals(password)) {
 
                     //code if condition is true
